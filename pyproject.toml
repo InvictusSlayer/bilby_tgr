@@ -42,12 +42,12 @@ maintainers = [
 readme = "README.rst"
 requires-python = ">=3.8"
 license = { text = "MIT" }
-version = "0.2"
+version = "0.2-dev.siqm-relbin"
 dependencies = [
     "bilby",
     "lalsuite>=7.20",
     "numpy>=1.17",
-    "scipy==1.14.0",
+    "scipy==1.18.0",
 ]
 classifiers = [
     "Programming Language :: Python :: 3",
